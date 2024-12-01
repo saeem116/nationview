@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "Iceland",
+    "capital": "Reykjavík",
+    "population": 394563,
+    "interestingFact": "Iceland is one of the most volcanically active countries in the world, with frequent eruptions and geothermal activity."
+  },
+  {
+    "id": 3,
+    "countryName": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "population": 3400000,
+    "interestingFact": "Mongolia is the world's most sparsely populated country after Australia."
+  },
+  {
+    "id": 4,
+    "countryName": "Paraguay",
+    "capital": "Asunción",
+    "population": 7200000,
+    "interestingFact": "Paraguay is the only landlocked country in South America."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Uruguay",
+    "capital": "Montevideo",
+    "population": 3500000,
+    "interestingFact": "Uruguay is the second-smallest country in South America, after Suriname."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45000000,
+    "interestingFact": "Argentina is known for its vast Pampas grasslands, where cattle ranching is a major industry."
+  },
+  {
+    "id": 9,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 170000000,
+    "interestingFact": "Bangladesh is home to the Sundarbans, the world's largest mangrove forest, and a UNESCO World Heritage Site."
+  },
+  {
+    "id": 10,
+    "countryName": "Cambodia",
+    "capital": "Phnom Penh",
+    "population": 17000000,
+    "interestingFact": "Cambodia is famous for its ancient temples, including Angkor Wat, one of the world's largest religious monuments."
+  },
+  {
+    "id": 11,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 12,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 126000000,
+    "interestingFact": "Japan is an island nation located in East Asia, known for its rich culture, advanced technology, and beautiful scenery."
+  },
+  {
+    "id": 13,
+    "countryName": "Portugal",
+    "capital": "Lisbon",
+    "population": 10300000,
+    "interestingFact": "Portugal is the westernmost country in Europe, known for its beautiful coastline, delicious food, and rich history, including the Age of Discovery."
+  },
+  {
+    "id": 14,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 36000000,
+    "interestingFact": "Saudi Arabia is the largest country in Western Asia and the birthplace of Islam. It is home to the holy cities of Mecca and Medina, which are visited by millions of pilgrims each year."
+  }
+]
